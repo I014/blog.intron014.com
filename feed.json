@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "I014 Magazine",
+    "description": "",
+    "home_page_url": "https://blog.intron014.com",
+    "feed_url": "https://blog.intron014.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Intron014"
+    },
+    "items": [
+    ]
+}
