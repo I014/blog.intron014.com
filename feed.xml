@@ -3,10 +3,41 @@
     <title>I014 Magazine</title>
     <link href="https://blog.intron014.com/feed.xml" rel="self" />
     <link href="https://blog.intron014.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-01-22T20:49:43+01:00</updated>
     <author>
         <name>Intron014</name>
     </author>
     <id>https://blog.intron014.com</id>
 
+    <entry>
+        <title>Hello, and welcome!</title>
+        <author>
+            <name>Intron014</name>
+        </author>
+        <link href="https://blog.intron014.com/hello-and-welcome/"/>
+        <id>https://blog.intron014.com/hello-and-welcome/</id>
+
+        <updated>2022-01-22T20:49:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Hello, and welcome to my blog! As what may have brought you here, I do not know, but I sincerely hope that you stay to follow on my... how to say it... my silly little adventures trying to figure out everything to be honest&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hello, and welcome to my blog! As what may have brought you here, I do not know, but I sincerely hope that you stay to follow on my... how to say it... my silly little adventures trying to figure out everything to be honest (maybe I'll even honor this page's name and I'll do weekly releases!). Anyways... If you'd like to get notifications whenever I post anything here, I have a <a href="https://l.intron014.com/nr5Z" target="_blank">Telegram channel</a>&nbsp;(&lt;--- click there :D) for you!&nbsp;
+  </p>
+
+  <p>
+    Thanks for checking this out! Cya in the next issue!<br>- Intron014.<br>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
