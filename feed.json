@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blog.intron014.com/music-tangled-to-memories/",
+            "url": "https://blog.intron014.com/music-tangled-to-memories/",
+            "title": "Music Tangled To Memories",
+            "summary": "Yesterday I was studying as usual, listening to random music that Spotify thought I may like when… The light in us all started playing. It honestly left me standing there, with just a thought (a very silly thought at that).",
+            "content_html": "<p>Yesterday I was studying as usual, listening to random music that Spotify thought I may like when… <a href=\"https://open.spotify.com/track/7revSqxVsvLpAZPA5br6OX\"><em>The light in us all</em></a> started playing. It honestly left me standing there, with just a thought (a very silly thought at that). Me playing Minecraft following <a href=\"https://www.youtube.com/c/ArticKraft\">ArticKraft</a>’s videos on base building. Silly, I warned ya, nevertheless it left me thinking because I haven’t even glanced at that YouTuber since I was 12 or 13, and the fact that when the song played I immediately remembered the name of the YouTuber is wild. The same happens with, for example, the opening music from an Apple Event, I can recall precisely what event it was played and what they introduced at it. </p>\n<p>This is an example of how music is really tangled into memories, I like to think of it as if it were the EXIF data (aka. Metadata) of a picture, except that with no aperture, camera and manufacturer’s data, but with the smells, music and good memories that can be retained from that moment. Again, this is wild. There is a chapter in the book called <a href=\"https://link.springer.com/book/10.1007/978-3-662-55004-5\"><em>Springer Handbook of Systematic Musicology</em></a> called <a href=\"https://www.researchgate.net/publication/323928106_Long-Term_Memory_for_Music\"><em>Long-Term Memory for Music</em></a> and it explains exceptionally well what I’m trying to convey over here… I might just be a Senior HS Student, therefore, just a mere opinion that has no weigh on anything, but I just like thinking about this stuff. Anyways, thanks for reading my silly thoughts, catch ya in the next one!</p>\n",
+            "image": "https://blog.intron014.com/media/posts/7/score_0.png",
+            "author": {
+                "name": "Intron014"
+            },
+            "tags": [
+                   "Random Thoughts"
+            ],
+            "date_published": "2022-02-08T22:00:00+01:00",
+            "date_modified": "2022-02-08T22:05:13+01:00"
+        },
+        {
             "id": "https://blog.intron014.com/close-encounters-of-the-third-kind/",
             "url": "https://blog.intron014.com/close-encounters-of-the-third-kind/",
             "title": "Close Encounters of the Third Kind",
